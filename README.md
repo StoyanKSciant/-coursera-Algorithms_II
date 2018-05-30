@@ -1,1 +1,1 @@
-# -coursera-Algorithms_II
+# -coursera.org course homeworks from Algorithms_II course
